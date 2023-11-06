@@ -2,7 +2,7 @@
     <head>Welcome Page</head>
     <body>
         <div>
-            Welcome to InMinute28
+            Welcome to ${name}
         </div>
         <div>
             Your Id is ${name}
